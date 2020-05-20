@@ -1,0 +1,3 @@
+# Hysteresis: Implementing the Preisach framework in Python
+
+Under construction...
