@@ -1,5 +1,0 @@
-matplotlib
-ipywidgets
-numpy
-palettable
-ipympl
