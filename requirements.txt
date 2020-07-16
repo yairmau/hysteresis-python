@@ -3,3 +3,5 @@ ipywidgets
 numpy
 palettable
 ipympl
+random
+
