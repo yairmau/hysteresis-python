@@ -3,3 +3,4 @@ ipywidgets
 numpy
 palettable
 ipympl
+pandas
