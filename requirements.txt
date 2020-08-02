@@ -4,3 +4,4 @@ numpy
 palettable
 ipympl
 pandas
+scipy
