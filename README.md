@@ -12,6 +12,7 @@ The following widgets...
 
 ### Hysteron Widget
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/first_widget?filepath=First%20Widget.ipynb)
 The hysteron widget...
 
 ### Weights Widget
