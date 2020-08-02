@@ -21,4 +21,5 @@ The hysteron widget...
 The weights widget...
 
 
-## Parameterizing the Model
+## Parameterizing the Model  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Third%20Widget%202.0-OOP.ipynb)
