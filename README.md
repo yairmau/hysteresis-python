@@ -10,19 +10,14 @@ Embedded YouTube Video
 
 The following widgets supplement our overview of the Presiach framework (Section 2 of the article).
 
-### Geometric Intepretation of the Preisach Framework
-How do hysterons work? How can the Preisach framework be interepreted geometrically. In this widget, we demonstrate how changes in the input value, **_u_**, affect the value of three hysterons. The hysterons are located at random locations in the preisach triangle. The total output of the system is equal to the sum of the hysteron values. To run the widget, click the link below. Wait for the notebook to load and then click 'Cell --> Run All'
+### 1. Geometric Intepretation of the Preisach Framework
+How do hysterons work? How can the Preisach framework be interepreted geometrically. In this widget, we demonstrate how changes in the input value, u, affect the value of three hysterons. The hysterons are located at random locations in the preisach triangle. The total output of the system is equal to the sum of the hysteron values. To run the widget, click the link below. Wait for the notebook to load (this can take a minute or two) and then click 'Cell --> Run All' [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/first_widget?filepath=First%20Widget.ipynb)  
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=First%20Widget.ipynb)
-
-
-### Weights Widget
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Second%20Widget.ipynb)  
-
-The weights widget...
+### 2. Weights
+The Preisach framework is able to account for soil specific properties through the weight function. In this widget we introduce weight functions and show how weight functions affect the system's output. With this widget, the user can compare different weight functions, including how each affects output. Wait for the notebook to load (this can take a minute or two) and then click 'Cell --> Run All' [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Second%20Widget.ipynb)  
 
 
 ## Parameterizing the Model  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Third%20Widget.ipynb)
+In this notebook we demonstrate how to paramaterize the model (i.e., compute the weight function) for a soil, as in Section 2.3 of the article.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Third%20Widget%202.0-OOP.ipynb)
