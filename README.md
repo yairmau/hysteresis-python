@@ -1,3 +1,5 @@
 # Hysteresis: Implementing the Preisach framework in Python
 
-Under construction...
+This GitHub repository corresponds to the published article...
+
+1
