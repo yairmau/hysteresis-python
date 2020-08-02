@@ -18,7 +18,7 @@ How do hysterons work? How can the Preisach framework be interepreted geometrica
 ### 2. Weights
 The Preisach framework is able to account for soil specific properties through the weight function. In this widget we introduce weight functions and show how weight functions affect the system's output. With this widget, the user can compare different weight functions, including how each affects output. Wait for the notebook to load (this can take a minute or two) and then click <em>Cell --> Run All</em>.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Second%20Widget.ipynb)  
+[![Binder](https://github.com/yairmau/hysteresis-python/blob/master/imageW2Link.png?raw=true)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Second%20Widget.ipynb)  
 
 
 ## Parameterizing the Model  
