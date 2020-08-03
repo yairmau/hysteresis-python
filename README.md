@@ -27,5 +27,5 @@ The Preisach framework is able to account for soil specific properties through t
 ## Parameterizing the Model  
 In this notebook we demonstrate how to paramaterize the model (i.e., compute the weight function) for a soil, as in Section 2.3 of the article.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Parameterized%20Model%20.ipynb)
+
 
