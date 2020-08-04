@@ -34,3 +34,4 @@ In this notebook, we demonstrate how experimental data can be used to find a soi
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Parameterized%20Model.ipynb)
 
 
+
