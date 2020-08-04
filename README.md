@@ -31,5 +31,6 @@ In this widget we demonstrate how weight functions affect the system's output. W
 
 In this notebook, we demonstrate how experimental data can be used to find a soil's weight function, as in Section 2.3 of the article. To run the notebook, click the Launch Binder. Wait for the notebook to load (this can take several minutes) and then click Cell --> Run All.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Parameterized%20Model.ipynb)
 
 
