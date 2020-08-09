@@ -15,6 +15,8 @@ This GitHub repository corresponds to the published article *cite*. The reposito
 
 This widget demonstrates how hysterons, the core of the Preisach framework, are used to model hysteresis. To run the widget, click the <em>Launch Binder</em>. Wait for the notebook to load (this can take several minutes) and then click <em>Cell → Run All</em>.
 
+<a href="https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Hysteron%20Widget.ipynb" target="_blank">Widget 1</a>
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yairmau/hysteresis-python/master?filepath=Hysteron%20Widget.ipynb)  
 
 
