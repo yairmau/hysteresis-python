@@ -7,7 +7,7 @@ This GitHub repository corresponds to the published article *cite*. The reposito
 
 ## Video Overview
 
-*Embedded YouTube Video*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Edw4ID2i-vM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Widgets
 
