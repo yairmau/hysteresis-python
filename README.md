@@ -7,7 +7,7 @@ This GitHub repository corresponds to the published article *cite*. The reposito
 
 ## Video Overview
 
-[![](http://img.youtube.com/vi/Edw4ID2i-vM/0.jpg)](http://www.youtube.com/watch?v=Edw4ID2i-vM "Test")
+[![](http://img.youtube.com/vi/8tPnX7OPo0Q/0.jpg)](http://www.youtube.com/watch?v=8tPnX7OPo0Q "Test")
 
 
 ## Widgets
