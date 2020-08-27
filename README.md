@@ -7,7 +7,8 @@ This GitHub repository corresponds to the published article *cite*. The reposito
 
 ## Video Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Edw4ID2i-vM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/Edw4ID2i-vM/0.jpg)](http://www.youtube.com/watch?v=Edw4ID2i-vM "Test")
+
 
 ## Widgets
 
