@@ -7,6 +7,8 @@ This GitHub repository corresponds to the published article *cite*. The reposito
 
 ## Video Overview
 
+### Click below for a video overview of the resources available in this repository ([link](http://www.youtube.com/watch?v=0fw9Uw0OHLk)
+
 [![](http://img.youtube.com/vi/0fw9Uw0OHLk/0.jpg)](http://www.youtube.com/watch?v=0fw9Uw0OHLk "")
 
 ## Widgets
