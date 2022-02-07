@@ -1,7 +1,6 @@
 # Modeling Irreversible Soil Degradation and Rehabilitation with the Preisach Framework
 
-This GitHub repository corresponds to the published article *cite*. The repository contains:
-
+This GitHub repository corresponds to the published article [Hysteresis in soil hydraulic conductivity as driven by salinity and sodicity – a modeling framework](https://hess.copernicus.org/articles/25/1993/2021/). The repository contains:
   * Widgets designed to give users an intuitive sense of how the Preisach framework works.
   * A guide to parameterizing the model using experimental data.
 
